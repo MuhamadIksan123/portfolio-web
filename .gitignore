@@ -1,0 +1,9 @@
+# Ignore vendor libraries and downloaded assets
+/vendor/
+/vendor/bootstrap/
+/vendor/boxicons/
+
+# Ignore node_modules if you're using Node.js for development
+/node_modules/
+
+# Ignore any other build files or assets that you don't want to include in the
